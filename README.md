@@ -1,1 +1,1 @@
-A bot for chennai-kurz discord server. 
+A discord bot for chennai-kurz discord server. 
